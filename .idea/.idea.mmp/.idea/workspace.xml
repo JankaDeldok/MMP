@@ -2,31 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f98302b-56fc-47a7-a81c-e44c690cbfd7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_00__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_00__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_00__Default_Changelist_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_00__Default_Changelist_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_12__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_12__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.mmp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.mmp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Levels/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CollectLMU.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CollectLMU.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/29/29a315cf65b0d50b5dad29d421ab81b0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/37/376048e4967b6f3679bb5270d365a934" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/3f/3fbdf9021fa3e5072e8c662df9b7e366" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/46/468ed88cffb8cc96273ebabd5ac6a964" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/48/48c0d85e291c792b045e90ef70970448" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/62/62f961656d726bd63273649e2e01823c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/77/777cd95f92e867cfda9f57de825fff3e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7a/7a85a0c41a7b963fc1dfdfbb36e5888b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/90/90b92c82b99cc268f1b8611f4adb679b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a3/a341e39e7ed85d210c086246e39856e4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/be/bed938310ed6260721c6bc23e301b855" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c3/c38748628ab752da701bd4b967bbc31a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e1/e1ab76f95c5311cbbd9aa7d688517d1d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/2a/2a16c5448b3cf116cbcfd323658313f9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/36/36ffb84a6a9adefd3b20de4522e5cfb8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/3b/3b4a4f220591475b9e9f913a0d7e4b9e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/58/58a376cf2dc65efcc80faf7a3a843a2d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5d/5daaf29a33664aa98461368c4c3220a3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5f/5f2de1e3760079e0b50e4ea73221587b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/60/601ef32f294d2e27edaa8622b936fcd1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6d/6dadc31a548bb3d1e2836dd771a5857f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/78/7823aaa243fb6a074ef55d7806d51d0f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7a/7a930b5fdfb3f7ae79418e9490e99293" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/95/95514277f1101db662904b07aa27ede8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/95/9570dec53d64afc8c03e1f86fa21d828" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a4/a42b7416369c03fb1941b39be92fa3ad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ac/acf3d59ad87dfc9bf955cf1b2d6e5f2a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b5/b578e6e85cd024050417fb09d1c98604" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b6/b6cf73cf61c0a8def956a990aa8e91b1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/bf/bf48c5ba8d21efb32ae25e5da561a431" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/cd/cdb73ecd59ff413a8c3c523dc0175f17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +45,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnergyManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Chiara/Desktop/MMP-INTELL/Assets/Scripts/CollectLMU.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Chiara/Desktop/MMP-INTELL/Assets/Scripts/CollectLMU.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.animation@5.0.5/Runtime/AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Editor/EventSystem/EventSystemEditor.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -106,7 +110,7 @@
       <updated>1625916078033</updated>
       <workItem from="1625916091798" duration="7547000" />
       <workItem from="1625987133470" duration="3624000" />
-      <workItem from="1626356060464" duration="1526000" />
+      <workItem from="1626356060464" duration="2440000" />
     </task>
     <task id="LOCAL-00001" summary="Energy/Heart added/instantiate">
       <created>1625922507762</created>
@@ -185,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626356018299</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="adjust sound">
+      <created>1626359052278</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1626359052278</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +229,7 @@
     <MESSAGE value="scoreL1, scoreL2, scoreL3, scoreL4 &amp; scoreL5 in ScoreScript hinzugefügt" />
     <MESSAGE value="SoundCoin hinzugefügt - funktioniert noch nicht" />
     <MESSAGE value="commits because Unity closed" />
-    <option name="LAST_COMMIT_MESSAGE" value="commits because Unity closed" />
+    <MESSAGE value="adjust sound" />
+    <option name="LAST_COMMIT_MESSAGE" value="adjust sound" />
   </component>
 </project>

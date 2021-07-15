@@ -122,7 +122,7 @@ public class Health : MonoBehaviour
                 }
                 else{
                     //get 1 energy
-                AddHealth(1);
+                    AddHealth(1);
                 }
             } 
             
