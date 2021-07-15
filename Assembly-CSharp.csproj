@@ -62,7 +62,6 @@
      <Compile Include="Assets\Scripts\LetterScript.cs" />
      <Compile Include="Assets\Scripts\GrabScript.cs" />
      <Compile Include="Assets\Scripts\Health\HealthCollectible.cs" />
-     <Compile Include="Assets\Scripts\enemyScript.cs" />
      <Compile Include="Assets\Scripts\Health\Healthbar.cs" />
      <Compile Include="Assets\Scripts\Timer.cs" />
      <Compile Include="Assets\Scripts\CollectLMU.cs" />
