@@ -1,0 +1,29 @@
+﻿<changelist name="Uncommitted_changes_before_Checkout_at_15_07_2021_14_00_[Default_Changelist]1" date="1626350431445" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_00_[Default_Changelist]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 15.07.2021 14:00 [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ArtifactDB" />
+    <option name="AFTER_PATH" value="Library/ArtifactDB" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_00_[Default_Changelist]1/ArtifactDB" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/SourceAssetDB" />
+    <option name="AFTER_PATH" value="Library/SourceAssetDB" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_00_[Default_Changelist]1/SourceAssetDB" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Assembly-CSharp.dll" />
+    <option name="AFTER_PATH" value="Library/ScriptAssemblies/Assembly-CSharp.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_00_[Default_Changelist]1/Assembly-CSharp.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" />
+    <option name="AFTER_PATH" value="obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_00_[Default_Changelist]1/Assembly-CSharp.csproj.AssemblyReference.cache" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Assembly-CSharp.pdb" />
+    <option name="AFTER_PATH" value="Library/ScriptAssemblies/Assembly-CSharp.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_00_[Default_Changelist]1/Assembly-CSharp.pdb" />
+  </binary>
+</changelist>
