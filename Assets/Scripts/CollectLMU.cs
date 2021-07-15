@@ -36,17 +36,19 @@ public class CollectLMU : MonoBehaviour
         //check if edgeCollider2d was Hit
         if(collision.gameObject.name == "L(Clone)"){
             
-            
-
             //write letter on canvas
             L.enabled = true;
+            //soundCoin started
             soundCoin.Play();
+            //Element destroyed
             Destroy(collision.gameObject);
         }
         if(collision.gameObject.name == "M(Clone)"){ 
             //write letter on canvas
             M.enabled = true;
+            //soundCoin started
             soundCoin.Play();
+            //Element destroyed
             Destroy(collision.gameObject);
             
         }
@@ -54,8 +56,9 @@ public class CollectLMU : MonoBehaviour
 
             //write letter on canvas
             U.enabled = true;
-            
+            //soundCoin started
             soundCoin.Play();
+            //Element destroyed
             Destroy(collision.gameObject);
             
         }

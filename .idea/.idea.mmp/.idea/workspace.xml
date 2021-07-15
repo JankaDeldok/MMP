@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f98302b-56fc-47a7-a81c-e44c690cbfd7" name="Default Changelist" comment="scoreL1, scoreL2, scoreL3, scoreL4 &amp; scoreL5 in ScoreScript hinzugefügt">
+    <list default="true" id="2f98302b-56fc-47a7-a81c-e44c690cbfd7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_00__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_00__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_00__Default_Changelist_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_00__Default_Changelist_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_12__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.mmp/.idea/shelf/Uncommitted_changes_before_Checkout_at_15_07_2021_14_12__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.mmp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.mmp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Levels/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Levels/Level 1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/CollectLMU.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CollectLMU.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/enemyScript.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/enemyScript.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/29/29a315cf65b0d50b5dad29d421ab81b0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/37/376048e4967b6f3679bb5270d365a934" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/3f/3fbdf9021fa3e5072e8c662df9b7e366" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/46/468ed88cffb8cc96273ebabd5ac6a964" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/48/48c0d85e291c792b045e90ef70970448" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/62/62f961656d726bd63273649e2e01823c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/77/777cd95f92e867cfda9f57de825fff3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7a/7a85a0c41a7b963fc1dfdfbb36e5888b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/90/90b92c82b99cc268f1b8611f4adb679b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a3/a341e39e7ed85d210c086246e39856e4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/be/bed938310ed6260721c6bc23e301b855" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c3/c38748628ab752da701bd4b967bbc31a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e1/e1ab76f95c5311cbbd9aa7d688517d1d" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +106,7 @@
       <updated>1625916078033</updated>
       <workItem from="1625916091798" duration="7547000" />
       <workItem from="1625987133470" duration="3624000" />
+      <workItem from="1626356060464" duration="1526000" />
     </task>
     <task id="LOCAL-00001" summary="Energy/Heart added/instantiate">
       <created>1625922507762</created>
@@ -157,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626354441119</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="SoundCoin hinzugefügt - funktioniert noch nicht">
+      <created>1626355989122</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1626355989122</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commits because Unity closed">
+      <created>1626356018299</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1626356018299</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +216,8 @@
     <MESSAGE value="Heart destroy by collision - not working" />
     <MESSAGE value="2.commit" />
     <MESSAGE value="scoreL1, scoreL2, scoreL3, scoreL4 &amp; scoreL5 in ScoreScript hinzugefügt" />
-    <option name="LAST_COMMIT_MESSAGE" value="scoreL1, scoreL2, scoreL3, scoreL4 &amp; scoreL5 in ScoreScript hinzugefügt" />
+    <MESSAGE value="SoundCoin hinzugefügt - funktioniert noch nicht" />
+    <MESSAGE value="commits because Unity closed" />
+    <option name="LAST_COMMIT_MESSAGE" value="commits because Unity closed" />
   </component>
 </project>
