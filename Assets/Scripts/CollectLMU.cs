@@ -21,15 +21,8 @@ public class CollectLMU : MonoBehaviour
         U.enabled = false;
 
         soundCoin = GameObject.FindWithTag("SoundCoin").GetComponent<AudioSource>();
-
-
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
 
     private void OnCollisionEnter2D(Collision2D collision)
     {

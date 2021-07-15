@@ -11,8 +11,8 @@ public class Health : MonoBehaviour
     private bool dead; 
 
     private EdgeCollider2D edgeCol;
-
-    private string lastColName;
+    private BoxCollider2D boxCol;
+    private Boolean hit;
 
     private AudioSource background;
 
@@ -24,6 +24,7 @@ public class Health : MonoBehaviour
         currentHealth = startingHealth;
         anim = GetComponent<Animator>();
         edgeCol = gameObject.GetComponent<EdgeCollider2D>();
+        boxCol = gameObject.GetComponent<BoxCollider2D>();
         background = GameObject.FindWithTag("MainCamera").GetComponent<AudioSource>();
     }
 
@@ -78,40 +79,33 @@ public class Health : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        
+        
         //check if edgeCollider2d was hit
-        if(edgeCol.IsTouching(collision.collider)){
-            if(collision.gameObject.tag=="Letter" && lastColName != collision.collider.name && currentHealth == 1)
+        if(collision.otherCollider == edgeCol){
+            if(collision.gameObject.tag=="Letter")
             {
+                Debug.Log("collision with letter");
                 //letter disabled & destroy
                 collision.gameObject.GetComponent<Renderer>().enabled = false;
-                Destroy(collision.gameObject);
+
+                //Sound for Collision with letter 
+                AudioSource audio = collision.gameObject.GetComponent<AudioSource>();
+                audio.Play();
+
+                //destroy letter
+                Destroy(collision.gameObject, audio.clip.length);
 
                 //only take damage if lastColName is not the same as last collision,
                 //otherwise takedamage will repeat as long as letterbox is touching the edgeCollider2d
                 TakeDamage(1);
-                lastColName = collision.collider.name;
-
             }
-            if(collision.gameObject.tag=="Letter" && lastColName != collision.collider.name)
-                {
-                    //letter disabled
-                    collision.gameObject.GetComponent<Renderer>().enabled = false;
-                    
-                    //Sound for Collision with letter 
-                    AudioSource audio = collision.gameObject.GetComponent<AudioSource>();
-                    audio.Play();
-                    
-                    //destroy letter
-                    Destroy(collision.gameObject, audio.clip.length);
+        }
+        if(collision.otherCollider == boxCol || collision.otherCollider == edgeCol){
 
-                    //only take damage if lastColName is not the same as last collision,
-                    //otherwise takedamage will repeat as long as letterbox is touching the edgeCollider2d
-                    TakeDamage(1);
-                    lastColName = collision.collider.name;
-                }
-
-            if (collision.gameObject.tag == "Heart" && currentHealth == startingHealth)
+            if (collision.gameObject.tag == "Heart")
             {
+                Debug.Log("collision with heart");
                 //heart disabled
                 collision.gameObject.GetComponent<Renderer>().enabled = false;
                 
@@ -123,26 +117,15 @@ public class Health : MonoBehaviour
                 Destroy(collision.gameObject, audio.clip.length);
                 
                 //get 10points for score
-                ScoreScript.scoreValue += ScoreScript.score;
-
-
+                if(currentHealth == startingHealth){
+                    ScoreScript.scoreValue += ScoreScript.score;
+                }
+                else{
+                    //get 1 energy
+                AddHealth(1);
+                }
             } 
             
-            if (collision.gameObject.tag == "Heart")
-            {
-                //letter disabled
-                collision.gameObject.GetComponent<Renderer>().enabled = false;
-                
-                //Sound for Energy
-                AudioSource audio = collision.gameObject.GetComponent<AudioSource>();
-                audio.Play();
-                
-                //destroy heart
-                Destroy(collision.gameObject, audio.clip.length);
-                
-                //get 1 energy
-                AddHealth(1);
-            }
         }
     }
 
