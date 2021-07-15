@@ -1,0 +1,93 @@
+Index: .idea/.idea.mmp/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"2f98302b-56fc-47a7-a81c-e44c690cbfd7\" name=\"Default Changelist\" comment=\"Spiel funktioniert noch - alles wieder angepasst\">\r\n      <change beforePath=\"$PROJECT_DIR$/Library/ArtifactDB\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Library/ArtifactDB\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Library/SourceAssetDB\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Library/SourceAssetDB\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"collectWords\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"HighlightingSettingsPerFile\">\r\n    <setting file=\"file://$PROJECT_DIR$/Assets/Scripts/EnergyManager.cs\" root0=\"FORCE_HIGHLIGHTING\" />\r\n    <setting file=\"file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.animation@5.0.5/Runtime/AssemblyInfo.cs\" root0=\"SKIP_HIGHLIGHTING\" />\r\n    <setting file=\"file://$PROJECT_DIR$/../../../../Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Editor/EventSystem/EventSystemEditor.cs\" root0=\"SKIP_HIGHLIGHTING\" />\r\n  </component>\r\n  <component name=\"IdeDocumentHistory\">\r\n    <changedPaths>\r\n      <option value=\"$PROJECT_DIR$/Assets/Scripts/enemyScript.cs\" />\r\n      <option value=\"$PROJECT_DIR$/Assets/HeartScript.cs\" />\r\n      <option value=\"$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs\" />\r\n      <option value=\"$PROJECT_DIR$/Assets/Scripts/HeartScript.cs\" />\r\n      <option value=\"$PROJECT_DIR$/Assets/Scripts/LetterManager.cs\" />\r\n      <option value=\"$PROJECT_DIR$/Assets/Scripts/EnergyManager.cs\" />\r\n      <option value=\"$PROJECT_DIR$/Assets/Scripts/Health.cs\" />\r\n    </changedPaths>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1v7bSisyCerA3bZ9bnvI7BMUphX\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"Discover.Launch.Via.Unity\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Attach to Unity Editor.Attach to Unity Editor\">\r\n    <configuration name=\"Attach to Unity Editor &amp; Play\" type=\"UNITY_DEBUG_RUN_CONFIGURATION\" factoryName=\"UNITY_ATTACH_AND_PLAY\" show_console_on_std_err=\"false\" show_console_on_std_out=\"false\" port=\"50000\" address=\"localhost\">\r\n      <option name=\"allowRunningInParallel\" value=\"false\" />\r\n      <option name=\"listenPortForConnections\" value=\"false\" />\r\n      <option name=\"pid\" />\r\n      <option name=\"projectPathOnTarget\" />\r\n      <option name=\"selectedOptions\">\r\n        <list />\r\n      </option>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"Attach to Unity Editor\" type=\"UNITY_DEBUG_RUN_CONFIGURATION\" factoryName=\"Unity Debug\" show_console_on_std_err=\"false\" show_console_on_std_out=\"false\" port=\"50000\" address=\"localhost\">\r\n      <option name=\"allowRunningInParallel\" value=\"false\" />\r\n      <option name=\"listenPortForConnections\" value=\"false\" />\r\n      <option name=\"pid\" />\r\n      <option name=\"projectPathOnTarget\" />\r\n      <option name=\"selectedOptions\">\r\n        <list />\r\n      </option>\r\n      <method v=\"2\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"2f98302b-56fc-47a7-a81c-e44c690cbfd7\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1625916078033</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1625916078033</updated>\r\n      <workItem from=\"1625916091798\" duration=\"7547000\" />\r\n      <workItem from=\"1625987133470\" duration=\"3624000\" />\r\n      <workItem from=\"1626330520599\" duration=\"3206000\" />\r\n      <workItem from=\"1626337923313\" duration=\"2382000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Energy/Heart added/instantiate\">\r\n      <created>1625922507762</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1625922507762</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"heart size changed &amp; animate\">\r\n      <created>1625923570517</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1625923570517</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"heart collider added\">\r\n      <created>1625925963683</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1625925963683</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"unversioned files\">\r\n      <created>1625926019802</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1625926019802</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"default Changelist\">\r\n      <created>1625987248419</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1625987248419</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Heart flying left to right; change Color\">\r\n      <created>1625992038015</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1625992038015</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Heart destroy by collision - not working\">\r\n      <created>1625993116538</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1625993116538</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"commit\">\r\n      <created>1626331324499</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1626331324499</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"commit 2 - gitignore deleted\">\r\n      <created>1626331560756</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1626331560756</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Heart Script verbunden mit EnergyPrefab\">\r\n      <created>1626332081443</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1626332081443</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"commits change\">\r\n      <created>1626332156180</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1626332156180</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"12\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"UnityProjectConfiguration\" hasMinimizedUI=\"false\" />\r\n  <component name=\"UnityUnitTestConfiguration\" currentTestLauncher=\"EditMode\" />\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"CLEAR_INITIAL_COMMIT_MESSAGE\" value=\"true\" />\r\n    <MESSAGE value=\"Energy/Heart added/instantiate\" />\r\n    <MESSAGE value=\"heart size changed &amp; animate\" />\r\n    <MESSAGE value=\"heart collider added\" />\r\n    <MESSAGE value=\"unversioned files\" />\r\n    <MESSAGE value=\"default Changelist\" />\r\n    <MESSAGE value=\"Heart flying left to right; change Color\" />\r\n    <MESSAGE value=\"Heart destroy by collision - not working\" />\r\n    <MESSAGE value=\"commit\" />\r\n    <MESSAGE value=\"commit 2 - gitignore deleted\" />\r\n    <MESSAGE value=\"Heart Script verbunden mit EnergyPrefab\" />\r\n    <MESSAGE value=\"commits change\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"commits change\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.mmp/.idea/workspace.xml b/.idea/.idea.mmp/.idea/workspace.xml
+--- a/.idea/.idea.mmp/.idea/workspace.xml	(revision 5cda1dacd0b561867a3a9d7cb0851caa5ad43a43)
++++ b/.idea/.idea.mmp/.idea/workspace.xml	(date 1626351055685)
+@@ -1,12 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="2f98302b-56fc-47a7-a81c-e44c690cbfd7" name="Default Changelist" comment="Spiel funktioniert noch - alles wieder angepasst">
+-      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
+-    </list>
++    <list default="true" id="2f98302b-56fc-47a7-a81c-e44c690cbfd7" name="Default Changelist" comment="commit" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -19,11 +14,14 @@
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="RESET_MODE" value="HARD" />
+   </component>
+   <component name="HighlightingSettingsPerFile">
+     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnergyManager.cs" root0="FORCE_HIGHLIGHTING" />
+     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.2d.animation@5.0.5/Runtime/AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+     <setting file="file://$PROJECT_DIR$/../../../../Program Files/Unity/Hub/Editor/2020.3.12f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Editor/EventSystem/EventSystemEditor.cs" root0="SKIP_HIGHLIGHTING" />
++    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
++    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Healthbar.cs" root0="FORCE_HIGHLIGHTING" />
+   </component>
+   <component name="IdeDocumentHistory">
+     <changedPaths>
+@@ -162,7 +160,35 @@
+       <option name="project" value="LOCAL" />
+       <updated>1626332156180</updated>
+     </task>
+-    <option name="localTasksCounter" value="12" />
++    <task id="LOCAL-00012" summary="Noch nichts rotes nach dem Wechsel von collectWords zu Merge">
++      <created>1626350599596</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1626350599596</updated>
++    </task>
++    <task id="LOCAL-00013" summary="Unity Fenster geschlossen">
++      <created>1626350626690</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1626350626690</updated>
++    </task>
++    <task id="LOCAL-00014" summary="commits after testing in Unity">
++      <created>1626351023361</created>
++      <option name="number" value="00014" />
++      <option name="presentableId" value="LOCAL-00014" />
++      <option name="project" value="LOCAL" />
++      <updated>1626351023361</updated>
++    </task>
++    <task id="LOCAL-00015" summary="commit">
++      <created>1626351053674</created>
++      <option name="number" value="00015" />
++      <option name="presentableId" value="LOCAL-00015" />
++      <option name="project" value="LOCAL" />
++      <updated>1626351053674</updated>
++    </task>
++    <option name="localTasksCounter" value="16" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -191,10 +217,13 @@
+     <MESSAGE value="default Changelist" />
+     <MESSAGE value="Heart flying left to right; change Color" />
+     <MESSAGE value="Heart destroy by collision - not working" />
+-    <MESSAGE value="commit" />
+     <MESSAGE value="commit 2 - gitignore deleted" />
+     <MESSAGE value="Heart Script verbunden mit EnergyPrefab" />
+     <MESSAGE value="commits change" />
+-    <option name="LAST_COMMIT_MESSAGE" value="commits change" />
++    <MESSAGE value="Noch nichts rotes nach dem Wechsel von collectWords zu Merge" />
++    <MESSAGE value="Unity Fenster geschlossen" />
++    <MESSAGE value="commits after testing in Unity" />
++    <MESSAGE value="commit" />
++    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+   </component>
+ </project>
+\ No newline at end of file
